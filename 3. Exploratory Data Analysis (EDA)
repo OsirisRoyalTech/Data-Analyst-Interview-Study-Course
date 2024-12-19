@@ -1,0 +1,11 @@
+What is EDA, and why is it important?
+
+Answer:
+Exploratory Data Analysis (EDA) is the process of analyzing datasets to summarize their main characteristics, 
+often using statistical graphics, plots, and other data visualization methods. EDA helps you understand the underlying structure of the data, 
+detect patterns, spot anomalies, test hypotheses, and check assumptions. It is a crucial first step in any data analysis project.
+
+Common techniques in EDA:
+•	Summary Statistics: Mean, median, mode, standard deviation, percentiles.
+•	Data Visualizations: Histograms, box plots, scatter plots, and heatmaps.
+•	Correlation Analysis: To identify relationships between variables (e.g., Pearson’s correlation).
