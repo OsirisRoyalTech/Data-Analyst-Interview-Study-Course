@@ -1,0 +1,12 @@
+What is data cleaning, and why is it important?
+
+Answer:
+Data cleaning refers to the process of identifying and rectifying errors or inconsistencies in a dataset. 
+It is important because inaccurate, missing, or inconsistent data can lead to incorrect analysis, unreliable results, and 
+poor decision-making. Common cleaning tasks include handling missing data, removing duplicates, correcting data types, and addressing outliers.
+
+Example Tasks:
+•	Missing Data: Impute, remove, or flag missing values.
+•	Outliers: Identify outliers and decide whether to remove or adjust them.
+•	Duplicates: Remove duplicate rows to prevent redundancy.
+•	Data Type Conversion: Ensure columns have the appropriate data type (e.g., converting strings to dates).
