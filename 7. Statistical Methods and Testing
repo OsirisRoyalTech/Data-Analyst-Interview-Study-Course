@@ -1,0 +1,9 @@
+What is hypothesis testing, and how does it work?
+
+Answer:
+Hypothesis testing is a statistical method used to make inferences about a population based on sample data. 
+It tests an assumption (null hypothesis) about a population parameter using sample data.
+  •	Null Hypothesis (H₀): The assumption that there is no effect or difference.
+  •	Alternative Hypothesis (H₁): The assumption that there is an effect or difference.
+  •	p-value: The probability that the observed data would occur if the null hypothesis were true. If the p-value is small (typically < 0.05), the null hypothesis is rejected.
+  •	Confidence Interval: A range of values that likely contains the population parameter with a given level of confidence (e.g., 95%).
