@@ -1,0 +1,15 @@
+What is machine learning, and how is it relevant to data analysis?
+
+Answer:
+Machine learning is a branch of artificial intelligence (AI) that focuses on building models that allow computers to learn patterns 
+from data without explicit programming. It is relevant to data analysis because machine learning algorithms can be used to make predictions, 
+classify data, and uncover hidden insights from large and complex datasets.
+  •	Supervised Learning: Uses labeled data to train the model (e.g., classification, regression).
+  •	Unsupervised Learning: Uses unlabeled data to find hidden patterns (e.g., clustering).
+  •	Reinforcement Learning: Models based on learning through rewards and penalties.
+
+Common algorithms:
+  •	Linear Regression: For predicting continuous values.
+  •	Logistic Regression: For binary classification problems.
+  •	K-Means Clustering: For clustering data into groups.
+  •	Decision Trees and Random Forests: For classification and regression tasks.
