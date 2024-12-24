@@ -1,0 +1,10 @@
+You have a dataset of customer transactions. How would you approach analyzing this dataset to find actionable insights?
+
+Answer:
+  1.	Data Cleaning: Check for missing values, duplicate records, incorrect data types, and outliers.
+  2.	Exploratory Data Analysis (EDA): Use summary statistics and visualizations (e.g., histograms, scatter plots) to understand the distribution of transactions and 
+      customer behavior.
+  3.	Customer Segmentation: Use clustering techniques like K-means to segment customers based on purchasing behavior, such as frequency and amount of transactions.
+  4.	Trend Analysis: Analyze transaction trends over time to identify patterns in spending behavior (e.g., seasonal trends).
+  5.	Correlation Analysis: Investigate relationships between variables (e.g., product category vs. purchase amount).
+  6.	Predictive Analysis: If applicable, use machine learning techniques to predict customer churn or lifetime value.
